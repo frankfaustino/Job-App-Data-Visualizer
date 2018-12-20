@@ -1,0 +1,16 @@
+# Dependency directory
+node_modules
+
+# Logs and stuff
+logs
+*.log
+npm-debug.log*
+coverage
+*.swp
+.DS_Store
+.vscode
+.snap
+resources
+
+# Environment Variables
+.env
